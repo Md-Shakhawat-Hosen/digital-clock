@@ -1,6 +1,6 @@
 const date = new Date();
 
-console.log (date.toString().split(' ')[4].split(':'))
+// console.log (date.toString().split(' ')[4].split(':'))
 
 
 const second = document.getElementById('second');
